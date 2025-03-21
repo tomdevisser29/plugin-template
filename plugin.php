@@ -3,6 +3,7 @@
 /**
  * Plugin Name: [Plugin_Name]
  * Author: Tom de Visser
+ * Text Domain: [plugin-name]
  */
 
 define( '[PLUGIN_NAME]_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
